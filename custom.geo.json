@@ -1,12 +1,20 @@
-{"type":"FeatureCollection","features":[
 {
-  "type": "Feature",
-  "id":"SG",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [103.824647, 1.357150]
-  },
-  "properties": {
-    "name": "Singapore"
-  }
-} ]}
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.9296875,
+          5.441022303717974
+        ]
+      }
+    }
+  ]
+}
